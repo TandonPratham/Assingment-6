@@ -1,0 +1,41 @@
+{
+    "Employees": [
+        {
+            "Name": "Pratham",
+            "DOB": "04/11/2001",
+            "Height": "5.5 Feet",
+            "City" : "Raipur",
+            "State" : "Chattisghar"
+  
+  
+          },
+          {
+              "Name": "Kanishka",
+              "DOB": "03/09/2002",
+              "Height": "5 Feet",
+              "City" : "Pune",
+              "State" : "Maharashtra"
+          },
+          {
+              "Name": "Animesh",
+              "DOB": "12/12/2001",
+              "Height": "5.8 Feet",
+              "City" : "Kolkata",
+              "State" : "West Bengal"
+          },
+          {
+              "Name": "Purvi",
+              "DOB": "31/05/2003",
+              "Height": "5.1 Feet",
+              "City" : "Mumbai",
+              "State" : "Maharashtra"
+          },
+          {
+              "Name": "Sanaya",
+              "DOB": "03/04/2008",
+              "Height": "4.11 Feet",
+              "City" : "Delhi",
+              "State" : "Delhi NCR"
+          }
+    ]
+}
